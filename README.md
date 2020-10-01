@@ -1,4 +1,5 @@
 # NBA_predict
+#excellent 
 
 NBApredict is a package for predicting NBA games against betting lines. It has two main behaviors: 
 1. Scrape and store team statistics, game results, and betting lines in a SQLite database.
